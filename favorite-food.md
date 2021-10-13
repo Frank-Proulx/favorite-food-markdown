@@ -1,4 +1,4 @@
-# How to make a delicious fritatta
+# How to make a delicious fritatta for two
 
 One of the _best ways_ to eat breakfast is to cook a bunch of things together and then bake some eggs on top of them. 
 
@@ -11,6 +11,12 @@ This involves various ingredients that will go in the pan and get the eggs poure
 3. Corn
 4. Soyrizo
 
-While these are cooking you prepare the eggs.
+## Now to prepare the eggs...
 
-## 
+Add the following to a bowl in any order:
+
+* Six cracked eggs
+* Salt
+* Pepper
+* Italian herbs blend
+* A little shredded cheese (to make them creamy)
